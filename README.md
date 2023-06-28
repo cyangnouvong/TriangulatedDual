@@ -6,10 +6,10 @@ Goals:
 2. Be able to toggle between flat shading (per-polygon normals) and smooth shading (per-vertex normals)
 
 ### Keystrokes ###
-1-5: Read in a mesh file (tetrahedron, octahedron, icosahedron, star, torus)
-d: Create the triangulated dual of the current mesh (you should be able to do this more than once)
-n: Toggle between per-face and per-vertex normals
-r: Toggle between white and randomly colored faces
-space: Toggle automatic rotation on and off
+1-5: Read in a mesh file (tetrahedron, octahedron, icosahedron, star, torus) <br>
+d: Create the triangulated dual of the current mesh (you should be able to do this more than once) <br>
+n: Toggle between per-face and per-vertex normals <br>
+r: Toggle between white and randomly colored faces <br>
+space: Toggle automatic rotation on and off <br>
 
 ### Example Images Created ###
